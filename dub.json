@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"musculus"
+	],
+	"copyright": "Copyright (c) 2023 musculus",
+	"description": "Open Source Football Manager",
+	"license": "MIT",
+	"name": "osfm"
+}
